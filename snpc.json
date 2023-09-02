@@ -1,0 +1,954 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lokadevstudio/cpns",
+      "email_feedback_and_report": "lokadev.studio@protonmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 0,
+      "main_ad": "applovin",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "8cdbb2f19c34cc64",
+      "applovin_interstitial_unit_id": "c60c25c74aeb549f",
+      "applovin_native_manual_unit_id": "bdb4075101409e3d",
+      "applovin_open_ad_unit_id": "0109fff6ba7910a5",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Materi",
+      "image": "https://cdn-icons-png.flaticon.com/512/2621/2621879.png"
+    },
+    {
+      "id": 2,
+      "name": "Simulasi Soal",
+      "image": "https://cdn-icons-png.flaticon.com/512/825/825590.png"
+    },
+    {
+      "id": 3,
+      "name": "Berita",
+      "image": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png"
+    },
+    {
+      "id": 4,
+      "name": "TIU",
+      "image": "https://cdn-icons-png.flaticon.com/512/1945/1945713.png"
+    },
+    {
+      "id": 5,
+      "name": "TKP",
+      "image": "https://cdn-icons-png.flaticon.com/512/3475/3475835.png"
+    },
+    {
+      "id": 6,
+      "name": "TKD",
+      "image": "https://cdn-icons-png.flaticon.com/512/3080/3080467.png"
+    },
+    {
+      "id": 7,
+      "name": "TWK",
+      "image": "https://cdn-icons-png.flaticon.com/128/4697/4697314.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Materi",
+      "title": "Panduan Jenis & Tipe Soal",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/1.html",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Materi, TIU",
+      "title": "Materi TIU (Tes Intelejensi Umum)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/materi-twk/materi-tiu/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 3,
+      "category": "Materi, TWK",
+      "title": "Materi TWK (Tes Wawasan Kebangsaan)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/materi-twk/materi-wk/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 4,
+      "category": "Materi, TKP",
+      "title": "Materi TKP (Tes Karakteristik Pribadi)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/materi-twk/materi-tkp/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 4,
+      "category": "Materi",
+      "title": "Materi Tes Bakat Skolastik",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/materi-twk/materi-skolastik/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 5,
+      "category": "Materi",
+      "title": "Materi Tes UUD dan Amandemen",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/materi-twk/materi-uud/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 6,
+      "category": "Materi",
+      "title": "Rangkuman Buku Saku TWK",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "https://archive.org/details/rangkumantwk/materi-tiu/mode/1up?view=theater",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Simulasi Soal, TKP, TIU, TWK",
+      "title": "Test Soal CPNS (TKP/TIU/TWK)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/home.html",
+      "video": ""
+    },
+	{
+      "id": 8,
+      "category": "Simulasi Soal",
+      "title": "Bahasa Indonesia I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1indo.html",
+      "video": ""
+    },
+	{
+      "id": 9,
+      "category": "Simulasi Soal",
+      "title": "Logika Formil I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1logika.html",
+      "video": ""
+    },
+	{
+      "id": 10,
+      "category": "Simulasi Soal",
+      "title": "Aritmatika I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1aritmatika.html",
+      "video": ""
+    },
+	{
+      "id": 11,
+      "category": "Simulasi Soal",
+      "title": "Tes Soal Seri I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1seri.html",
+      "video": ""
+    },
+	{
+      "id": 12,
+      "category": "Simulasi Soal",
+      "title": "Antonim I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1antonim.html",
+      "video": ""
+    },
+	{
+      "id": 13,
+      "category": "Simulasi Soal",
+      "title": "Sinonim I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1sinonim.html",
+      "video": ""
+    },
+	{
+      "id": 14,
+      "category": "Simulasi Soal",
+      "title": "Tata Negara I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1tatanegara.html",
+      "video": ""
+    },
+	{
+      "id": 15,
+      "category": "Simulasi Soal",
+      "title": "Padanan & Hubungan I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1padanan.html",
+      "video": ""
+    },
+	{
+      "id": 16,
+      "category": "Simulasi Soal",
+      "title": "Falsafah & Ideologi I",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1falsafah.html",
+      "video": ""
+    },
+	{
+      "id": 17,
+      "category": "Simulasi Soal",
+      "title": "Bahasa Indonesia II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2indo.html",
+      "video": ""
+    },
+	{
+      "id": 18,
+      "category": "Simulasi Soal",
+      "title": "Tata Negara II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2tatanegara.html",
+      "video": ""
+    },
+	{
+      "id": 19,
+      "category": "Simulasi Soal",
+      "title": "Bahasa Inggris II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2binggris.html",
+      "video": ""
+    },
+	{
+      "id": 20,
+      "category": "Simulasi Soal",
+      "title": "Kebijakan Negara II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2kebijakan.html",
+      "video": ""
+    },
+	{
+      "id": 21,
+      "category": "Simulasi Soal",
+      "title": "Tes Mengerti Masalah II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2reading.html",
+      "video": ""
+    },
+	{
+      "id": 22,
+      "category": "Simulasi Soal",
+      "title": "UUD 1945 dan Amandemen II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2uud.html",
+      "video": ""
+    },
+	{
+      "id": 23,
+      "category": "Simulasi Soal",
+      "title": "Sejarah",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2sejarah.html",
+      "video": ""
+    },
+	{
+      "id": 24,
+      "category": "Simulasi Soal",
+      "title": "Tata Negara II",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/1tatanegara.html",
+      "video": ""
+    },
+	{
+      "id": 25,
+      "category": "Simulasi Soal",
+      "title": "Struktur Bahasa Inggris",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/2struktur.html",
+      "video": ""
+    },
+	{
+      "id": 26,
+      "category": "Simulasi Soal, TWK",
+      "title": "Wawasan Kebangsaan A",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3twka.html",
+      "video": ""
+    },
+	{
+      "id": 27,
+      "category": "Simulasi Soal, TWK",
+      "title": "Wawasan Kebangsaan B",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3twkb.html",
+      "video": ""
+    },
+	{
+      "id": 28,
+      "category": "Simulasi Soal, TIU",
+      "title": "Tes Intelejensi Umum",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3intelejensi.html",
+      "video": ""
+    },
+	{
+      "id": 29,
+      "category": "Simulasi Soal, TKP",
+      "title": "Tes Karakteristik Pribadi A",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3pribadia.html",
+      "video": ""
+    },
+	{
+      "id": 30,
+      "category": "Simulasi Soal, TKP",
+      "title": "Tes Karakteristik Pribadi B",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3pribadib.html",
+      "video": ""
+    },
+	{
+      "id": 31,
+      "category": "Simulasi Soal, TIU",
+      "title": "UUD 1945 dan Amandemen",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3intelejentiu.html",
+      "video": ""
+    },
+	{
+      "id": 32,
+      "category": "Simulasi Soal, TIU",
+      "title": "Test Intelejensi Umum Logika",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/3intelejentiu.html",
+      "video": ""
+    },
+	{
+      "id": 33,
+      "category": "Simulasi Soal, TKP",
+      "title": "Tes Kepribadian A",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4pribadia.html",
+      "video": ""
+    },
+	{
+      "id": 34,
+      "category": "Simulasi Soal, TKP",
+      "title": "Tes Kepribadian B",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4pribadib.html",
+      "video": ""
+    },
+	{
+      "id": 35,
+      "category": "Simulasi Soal, TWK",
+      "title": "Tes Wawasan Kebangsaan A",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4twka.html",
+      "video": ""
+    },
+	{
+      "id": 36,
+      "category": "Simulasi Soal, TWK",
+      "title": "Tes Wawasan Kebangsaan B",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4twkb.html",
+      "video": ""
+    },
+	{
+      "id": 37,
+      "category": "Simulasi Soal, TWK",
+      "title": "Tes Wawasan Kebangsaan C",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4twkc.html",
+      "video": ""
+    },
+	{
+      "id": 38,
+      "category": "Simulasi Soal, TIU",
+      "title": "Test Intelejensi Umum Logika",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/4intelejen.html",
+      "video": ""
+    },
+	{
+      "id": 39,
+      "category": "Simulasi Soal, TIU",
+      "title": "Tes Kecerdasan Umum",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5tku.html",
+      "video": ""
+    },
+	{
+      "id": 40,
+      "category": "Simulasi Soal, TIU",
+      "title": "Tes Kecepatan dan Keteleitian Klerikal",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5kecepatanklerikal.html",
+      "video": ""
+    },
+	{
+      "id": 41,
+      "category": "Simulasi Soal, TIU",
+      "title": "Tes Kecepatan Perbedaan",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5kecepatanperbedaan.html",
+      "video": ""
+    },
+	{
+      "id": 42,
+      "category": "Simulasi Soal, TIU",
+      "title": "Sinonim Tingkat Lanjut",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5sinonim.html",
+      "video": ""
+    },
+	{
+      "id": 43,
+      "category": "Simulasi Soal, TIU",
+      "title": "Antonim ingkat Lanjut",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5antonim.html",
+      "video": ""
+    },
+	{
+      "id": 44,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal Analogi",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/test/5analogi.html",
+      "video": ""
+    },
+	{
+      "id": 45,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (1)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index1.html",
+      "video": ""
+    },
+	{
+      "id": 46,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (2)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index2.html",
+      "video": ""
+    },
+	{
+      "id": 47,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (3)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index3.html",
+      "video": ""
+    },
+	{
+      "id": 48,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (4)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index4.html",
+      "video": ""
+    },
+	{
+      "id": 49,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (5)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index5.html",
+      "video": ""
+    },
+	{
+      "id": 50,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (6)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index6.html",
+      "video": ""
+    },
+	{
+      "id": 51,
+      "category": "Simulasi Soal, TIU",
+      "title": "Soal CPNS TIU (7)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tiu/index7.html",
+      "video": ""
+    },
+	{
+      "id": 52,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS TKP (1)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp1/index1.html",
+      "video": ""
+    },
+	{
+      "id": 53,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS TKP (2)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp1/index2.html",
+      "video": ""
+    },
+	{
+      "id": 54,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS Kepribadian (1)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp2/Kepribadian1.html",
+      "video": ""
+    },
+	{
+      "id": 55,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS Kepribadian (2)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp2/Kepribadian2.html",
+      "video": ""
+    },
+	{
+      "id": 56,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS Kepribadian (3)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp2/Kepribadian3.html",
+      "video": ""
+    },
+	{
+      "id": 57,
+      "category": "Simulasi Soal, TKP",
+      "title": "Soal CPNS Kepribadian (4)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkp2/Kepribadian4.html",
+      "video": ""
+    },
+	{
+      "id": 58,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (1)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index1.html",
+      "video": ""
+    },
+	{
+      "id": 59,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (2)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index2.html",
+      "video": ""
+    },
+	{
+      "id": 60,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (3)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index3.html",
+      "video": ""
+    },
+	{
+      "id": 61,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (4)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index4.html",
+      "video": ""
+    },
+	{
+      "id": 62,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (5)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index5.html",
+      "video": ""
+    },
+	{
+      "id": 63,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (6)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index6.html",
+      "video": ""
+    },
+	{
+      "id": 64,
+      "category": "Simulasi Soal, TWK",
+      "title": "Soal CPNS TWK (7)",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/twk/index7.html",
+      "video": ""
+    },
+	{
+      "id": 65,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Antonim 1",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDantonim.html",
+      "video": ""
+    },
+	{
+      "id": 66,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Antonim 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDantonim2.html",
+      "video": ""
+    },
+	{
+      "id": 67,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Bahasa Inggris",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDbinggris.html",
+      "video": ""
+    },
+	{
+      "id": 68,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Bahasa Indonesia 1",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDindo1.html",
+      "video": ""
+    },
+	{
+      "id": 69,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Bahasa Indonesia 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDindo2.html",
+      "video": ""
+    },
+	{
+      "id": 70,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Kecepatan dan Ketelitian 1",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDkecepatan2.html",
+      "video": ""
+    },
+	{
+      "id": 71,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Kecepatan dan Ketelitian 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDkecepatanperbedaan.html",
+      "video": ""
+    },
+	{
+      "id": 72,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Reading",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDreading.html",
+      "video": ""
+    },
+	{
+      "id": 73,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Sinonim 1",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDsinonim.html",
+      "video": ""
+    },
+	{
+      "id": 74,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Sinonim 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDsinonim1.html",
+      "video": ""
+    },
+	{
+      "id": 75,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS TKD - Sinonim 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/TKDsinonim1.html",
+      "video": ""
+    },
+	{
+      "id": 76,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 1",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/1.html",
+      "video": ""
+    },
+	{
+      "id": 77,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 2",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/2.html",
+      "video": ""
+    },
+	{
+      "id": 78,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 4",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/4.html",
+      "video": ""
+    },
+	{
+      "id": 79,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 5",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/5.html",
+      "video": ""
+    },
+	{
+      "id": 80,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 6",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/6.html",
+      "video": ""
+    },
+	{
+      "id": 81,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 7",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/7.html",
+      "video": ""
+    },
+	{
+      "id": 82,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 8",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/8.html",
+      "video": ""
+    },
+	{
+      "id": 83,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 9",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/9.html",
+      "video": ""
+    },
+	{
+      "id": 84,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 10",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/10.html",
+      "video": ""
+    },
+	{
+      "id": 85,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 11",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/11.html",
+      "video": ""
+    },
+	{
+      "id": 86,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 12",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/12.html",
+      "video": ""
+    },
+	{
+      "id": 87,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 13",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/13.html",
+      "video": ""
+    },
+	{
+      "id": 88,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 14",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/14.html",
+      "video": ""
+    },
+	{
+      "id": 89,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 15",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/14.html",
+      "video": ""
+    },
+	{
+      "id": 90,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 16",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/16.html",
+      "video": ""
+    },
+	{
+      "id": 91,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 17",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/17.html",
+      "video": ""
+    },
+	{
+      "id": 92,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 18",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/18.html",
+      "video": ""
+    },
+	{
+      "id": 93,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 19",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/19.html",
+      "video": ""
+    },
+	{
+      "id": 94,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 20",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/20.html",
+      "video": ""
+    },
+	{
+      "id": 95,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 21",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/21.html",
+      "video": ""
+    },
+	{
+      "id": 96,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 22",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/22.html",
+      "video": ""
+    },
+	{
+      "id": 97,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 23",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/23.html",
+      "video": ""
+    },
+	{
+      "id": 98,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 24",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/24.html",
+      "video": ""
+    },
+	{
+      "id": 99,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 25",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/25.html",
+      "video": ""
+    },
+	{
+      "id": 100,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 26",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/26.html",
+      "video": ""
+    },
+	{
+      "id": 101,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 27",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/27.html",
+      "video": ""
+    },
+	{
+      "id": 102,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 28",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/28.html",
+      "video": ""
+    },
+	{
+      "id": 103,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 29",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/29.html",
+      "video": ""
+    },
+	{
+      "id": 104,
+      "category": "Simulasi Soal, TKD",
+      "title": "Soal CPNS CAT Paket 30",
+      "image": "https://raw.githubusercontent.com/colddrygame/wap/master/raw/boy-3653385_640.jpg",
+      "content": "file:///android_asset/tkd/paketsoal/30.html",
+      "video": ""
+    }
+  ]
+}
